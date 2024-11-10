@@ -2,4 +2,4 @@
 
 skip_failed_links=true
 
-clash_rule_base=https://raw.githubusercontent.com/ljk0168/clashmoban/bkclashmoban/mini.yaml
+clash_rule_base=https://raw.githubusercontent.com/ljk0168/clashmoban/refs/heads/main/bkclashmoban/mini.yaml
