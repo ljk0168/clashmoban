@@ -1,5 +1,22 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-
+#红杏机场
+DOMAIN-SUFFIX,hongxingdl.com
+DOMAIN-SUFFIX,hongxingdl.love
+DOMAIN-SUFFIX,hongxingdl.it
+DOMAIN-SUFFIX,hongxingdl.one
+DOMAIN-SUFFIX,hongxingdl.club
+DOMAIN-SUFFIX,hongxingdl.cc
+DOMAIN-SUFFIX,hongxingdl.co
+#飓风机场
+DOMAIN-SUFFIX,ju-feng.azure-api.net
+#国内直连EMBY-Nanflix-alphatv-MisakaF-Levilde
+DOMAIN,nanflix.net
+DOMAIN,115.nanflix.net
+IP-CIDR,69.10.32.214/32,no-resolve
+DOMAIN,stream3.misakaf.org
+IP-CIDR,208.91.107.189/32,no-resolve
+IP-CIDR,104.26.10.170/32,no-resolve
+IP-CIDR,188.253.112.89/32,no-resolve
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
