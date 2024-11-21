@@ -50,18 +50,6 @@ DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
-# EA Desktop 云同步
-#DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
-# GooglePlay 相关
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# PS5 STUN
-DOMAIN-SUFFIX,stun.playstation.net
-# 嵌入式相关
-DOMAIN-SUFFIX,platformio.org
-DOMAIN-SUFFIX,arduino.cc
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
