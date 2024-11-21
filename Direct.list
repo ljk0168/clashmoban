@@ -9,19 +9,13 @@ DOMAIN-SUFFIX,hongxingdl.cc
 DOMAIN-SUFFIX,hongxingdl.co
 #飓风机场
 DOMAIN-SUFFIX,ju-feng.azure-api.net
-#国内直连EMBY-Nanflix-alphatv-MisakaF-Levilde
-DOMAIN,nanflix.net
-DOMAIN,115.nanflix.net
-IP-CIDR,69.10.32.214/32,no-resolve
-DOMAIN,stream3.misakaf.org
-IP-CIDR,208.91.107.189/32,no-resolve
-IP-CIDR,104.26.10.170/32,no-resolve
-IP-CIDR,188.253.112.89/32,no-resolve
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
